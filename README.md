@@ -1,1 +1,2 @@
-# A sql script for database universe, created for purpose of freecodecamp project
+This is the sql script for 'universe' database. 
+Created for purpose of freecodecamp project.
